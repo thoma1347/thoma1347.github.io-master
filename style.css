@@ -1,0 +1,122 @@
+
+nav{
+  background-color: orange;
+  border: 2px solid black;
+  position: relative;
+  bottom: 35px;
+  width: 100%;
+}
+
+nav ul{
+  margin:0;
+  padding-left:10px;
+  position: relative;
+}
+nav li{
+  display: inline-block;
+  margin-right: 35px;
+}
+body{
+  background-color: white;
+}
+nav a{
+  display: inline-block;
+  text-decoration: none;
+  color: eee;
+}
+nav a:hover{
+  background-color: white;
+
+}
+nav a:visited{
+  color: red;
+}
+h1{
+  background-color:green;
+  width: 100%;
+  font-size: 45px;
+  position: relative;
+  border: 2px solid black;
+}
+img{
+  height: 220px;
+  width: 165px;
+  float: left;
+  position: relative;;
+  padding-right: 10px;
+}
+
+#ContactInfo{
+  margin-right: 0;
+  padding-left: 10px;
+  position: relative;
+
+}
+#ContactInfo p{
+  margin: 10px;
+  bottom: 10px;
+  position: relative;
+}
+h2{
+  font-family: Anton, sans-serif;
+}
+#Address{
+  position: relative;
+  margin-top: 5px;
+  float: right;
+}
+main li{
+  font-family: Rubik, sans-serif;
+}
+#Address p{
+  margin: 0;
+  bottom: 20px;
+  position: relative;
+
+}
+#Education{
+  position: relative;
+  bottom: 15px;
+  float: right;
+}
+#Education h3{
+  margin: 0;
+  position: relative;
+  bottom: 15px;
+}
+#Education li{
+  position: relative;
+  bottom: 30px;
+}
+div{
+  position: relative;
+  bottom:198px;
+  margin-left: 15px;
+}
+#Experience{
+  float: left;
+  position: relative;
+  bottom: 270px;
+
+}
+#Experience h3{
+  margin: 0;
+  position: relative;
+  bottom: 10px;
+}
+#Experience h4{
+  position: relative;
+  bottom: 25px;
+}
+#Experience li{
+  position: relative;
+  bottom: 30px;
+}
+ul{
+  list-style-type: none;
+}
+#ActivitiesHonors h2{
+  position: relative;
+  bottom: 25px;
+}
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Rubik" rel="stylesheet">
